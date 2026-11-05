@@ -1,16 +1,16 @@
-## Hi there 👋
+# Oi, eu sou a Júlia 👋
 
-<!--
-**juliasm36/juliasm36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistema de Informação na Universidade Feevale. Uso IA para transformar problemas reais de negócio em soluções que funcionam na prática.
 
-Here are some ideas to get you started:
+### 🚀 Projetos em destaque
+- **[MVP Controle de Produção](https://github.com/juliasm36/mvp-controle-producao)**: troquei quadros físicos de produção por um painel web alimentado pelo ERP.
+- **[Controle de Frequência](https://github.com/juliasm36/controle-frequencia)**: chamada e relatório mensal de presença para uma assessoria de corrida.
+- **[Minha Rotina](https://github.com/juliasm36/minha-rotina)**: app web para organizar faculdade, tarefas, treinos e alimentação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Ferramentas
+[Claude · Gemini · Google Sheets · App Script]
+
+### 💡 Como eu trabalho
+Começo pelo problema, não pela ferramenta: entendo quem tem a dor, escolho a IA certa para resolver e testo com quem vai usar.
+
+📫 [LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-marques-97733b216/)
