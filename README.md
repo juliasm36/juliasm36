@@ -1,16 +1,21 @@
 # Oi, eu sou a Júlia 👋
 
-Estudante de Sistema de Informação na Universidade Feevale. Uso IA para transformar problemas reais de negócio em soluções que funcionam na prática.
+Uso IA para transformar rotinas operacionais em soluções simples, que as pessoas realmente querem usar.
+Formada em Gestão Comercial, estudante de Sistemas de Informação na Feevale (dez/2027) e com experiência em QA.
 
-### 🚀 Projetos em destaque
-- **[MVP Controle de Produção](https://github.com/juliasm36/mvp-controle-producao)**: troquei quadros físicos de produção por um painel web alimentado pelo ERP.
-- **[Controle de Frequência](https://github.com/juliasm36/controle-frequencia)**: chamada e relatório mensal de presença para uma assessoria de corrida.
-- **[Minha Rotina](https://github.com/juliasm36/minha-rotina)**: app web para organizar faculdade, tarefas, treinos e alimentação.
+Gosto de olhar para tarefas repetitivas e controles feitos à mão e perguntar: dá para resolver de um jeito mais simples? Meu jeito de trabalhar é ouvir quem vive a rotina, entender o problema, escolher a ferramenta certa e testar até funcionar.
+
+### 🚀 Projetos
+- **[Controle de Produção](https://github.com/juliasm36/mvp-controle-producao)**: MVP que propus no trabalho para substituir os quadros físicos de produção, com Google Sheets, Apps Script e Claude, alimentado pelo ERP. Nos testes, a atualização caiu de **1 h com 3 pessoas para menos de 30 min com 1**.
+- **[Controle de Frequência](https://github.com/juliasm36/controle-frequencia)**: sistema de chamada e relatório mensal para uma assessoria de corrida.
+- **[Minha Rotina](https://github.com/juliasm36/minha-rotina)**: app que uso todos os dias para organizar faculdade, tarefas, treinos e alimentação.
 
 ### 🛠️ Ferramentas
-[Claude · Gemini · Google Sheets · App Script]
+Claude · Google Sheets · Apps Script · Postman · Java
 
-### 💡 Como eu trabalho
-Começo pelo problema, não pela ferramenta: entendo quem tem a dor, escolho a IA certa para resolver e testo com quem vai usar.
+### 📚 Formação
+- Sistemas de Informação, Feevale (em andamento, dez/2027)
+- Gestão Comercial (concluído)
+- Curso de engenharia de software com agentes de IA (concluído)
 
 📫 [LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-marques-97733b216/)
